@@ -1,5 +1,5 @@
 package extraordinaria;
-
+// mimimi
 public class Delafuente_Rectangulo {
  private int Id;
  private double ladoA;
